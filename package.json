@@ -32,7 +32,7 @@
 		"@sapphire/ts-config": "^3.1.6",
 		"@typescript-eslint/eslint-plugin": "^5.6.0",
 		"@typescript-eslint/parser": "^5.6.0",
-		"discord-api-types": "^0.25.2",
+		"discord-api-types": "0.26.0",
 		"discord.js": "^13.3.1",
 		"dts-bundle-generator": "^6.2.0",
 		"esbuild": "0.14.2",
