@@ -5,6 +5,9 @@
 **An advanced tags system for slash commands**
 </div>
 
+## Archived
+This repo has been moved to [Monorepo](https://github.com/SpecteraLabs/npm-packages/tree/main/packages/tag-parser)
+
 ## Description
 
 Advanced slash tags system for [Tagger](https://github.com/SpecteraLabs/Tagger)
